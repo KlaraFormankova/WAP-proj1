@@ -38,11 +38,12 @@ Projekt dokumentujte pomocí dokumentačních řetězců přímo v kódu knihovn
 
 #### Orientační hodnocení projektu
 
-program na testovacích datech vykazuje očekávané chování - 3b.,
-kvalita implementace, vhodné využití jazyka JavaScript - 3b.,
-kvalita vlastních testů - 2b.,
+program na testovacích datech vykazuje očekávané chování - 3b.
+kvalita implementace, vhodné využití jazyka JavaScript - 3b.
+kvalita vlastních testů - 2b.
 dokumentace - 2b.
-Formální chyby, které nebudou tolerovány:
+
+formální chyby, které nebudou tolerovány:
 odevzdaný soubor nelze spustit a odzkoušet: 0 bodů
 odevzdáno po termínu: 0 bodů
 nedodržení zadání: 0 bodů
