@@ -43,7 +43,7 @@ kvalita implementace, vhodné využití jazyka JavaScript - 3b.,
 kvalita vlastních testů - 2b.,
 dokumentace - 2b.
 
-formální chyby, které nebudou tolerovány:
+Formální chyby, které nebudou tolerovány:
 odevzdaný soubor nelze spustit a odzkoušet: 0 bodů,
 odevzdáno po termínu: 0 bodů,
 nedodržení zadání: 0 bodů,
